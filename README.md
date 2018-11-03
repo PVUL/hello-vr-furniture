@@ -1,4 +1,4 @@
-This is a Hello VR demo using a A-Frame and imports a glb model.
+This is a Hello VR demo using a A-Frame and imports a gltf model.
 
 ![hello_vr_furniture_gif](assets/hello_vr_furniture.gif)
 
